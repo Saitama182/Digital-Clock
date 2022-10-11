@@ -1,3 +1,2 @@
 # Digital clock
-- цифровые часы
-- This site was built using [GitHub Pages](https://saitama182.github.io/Digital-clock/).
+- цифровые часы [Посмотреть тут](https://saitama182.github.io/Digital-clock/).
